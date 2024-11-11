@@ -21,6 +21,7 @@ Taking time to unwind is restorative and essential given the nature of our lives
 
 # Course Title - Location - Times
 
+- instructors: John Henry Thompson and Najma Dawood
 - Special Topics in Digital Media (22207) - RESTORATIVE SPACES (Lecture)
 - DM-GY 9102 A
 - Topics in ITP (22069) - Restorative Spaces (Lecture)
