@@ -1,7 +1,10 @@
 # Restorative-Spaces-2025 ** DRAFT **
 
-Taking time to unwind is restorative and essential given the nature of our lives and the media-rich environments we inhabit. This is especially true for those attending interactive and digital media programs in NYC. There are many ways individuals and groups engage in restoration, from taking walks in parks to meditation or yoga. Recently, more **immersive environments have emerged that leverage sound and projection**. In this class, students will **explore new opportunities for developing restorative spaces, augmented with immersive technology**, and more.
+In our fast-paced, media-rich lives, finding time to unwind and restore balance is not just beneficial—it’s essential. This need is especially pronounced for students in interactive and digital media programs in NYC, where the demands of creativity and technology can be both exhilarating and overwhelming.
 
+Restorative practices, from walking in nature to yoga and meditation, have long been a source of solace for individuals and communities. Recently, advancements in immersive technology—such as soundscapes, interactive projections, and virtual environments—have opened up new possibilities for designing spaces that promote relaxation, mindfulness, and emotional well-being.
+
+This course invites students to investigate and develop innovative restorative spaces enhanced with immersive technology. Through hands-on projects, students will explore how elements like sound design, visual aesthetics, spatial interaction, and sensory engagement can be used to create environments that nurture calm, focus, and connection. From conceptualization to prototyping, students will engage in critical discussions about the ethics and efficacy of these technologies while considering the cultural and social implications of creating spaces for restoration in a digital world.
 
 # Syllabus Overview
 
