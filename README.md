@@ -8,19 +8,19 @@ This course invites students to investigate and develop innovative restorative s
 
 # Syllabus Overview
 
-## Week 1 - Lecture | Exploration
+## Week 1 (1/22) - Lecture | Exploration
 
-## Week 2 - Lecture | Exploration
+## Week 2 (1/29) - Lecture | Exploration
 
-## Week 3 - Lecture | Exploration
+## Week 3 (2/5) - Lecture | Exploration
 
-## Week 4 - Proposal due | Lecture | Exploration
+## Week 4 (2/12) - Proposal due | Lecture | Exploration
 
-## Week  5 - Review | Playtest | Iterate
+## Week 5 (2/19) - Review | Playtest | Iterate
 
-## Week 6 - Review | Playtest | Iterate
+## Week 6 (2/26) - Review | Playtest | Iterate
 
-## Week 7 - Final project presentations
+## Week 7 (3/5) - Final project presentations
 
 # Course Title - Location - Times
 
